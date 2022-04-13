@@ -5,7 +5,7 @@ var=v,i,b,g,y,o,r
 if [[$var==0]];then
 echo"Its a rainbow color"
 else
-echo"not a rainbow color"
+echo" rainbow"
 fi
 
 
